@@ -16,6 +16,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/button_label_toast"
+        android:onClick="showToast"
         android:background="@color/colorPrimary"
         android:textColor="@android:color/white"/>
 
@@ -36,6 +37,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/button_lable_count"
+        android:onClick="countUp"
         android:background="@color/colorPrimary"
         android:textColor="@android:color/white"/>
 </LinearLayout>
