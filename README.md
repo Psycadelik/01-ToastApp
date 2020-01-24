@@ -1,15 +1,15 @@
 # 01-ToastApp
 
  - Activities:
-    - [ ] Main Activity
+    - [X] Main Activity
 
  - Resources:
-    - [ ] strings
-    - [ ] colors
-    - [ ] dimensions
+    - [X] strings
+    - [X] colors
+    - [X] dimensions
 
  - Logic :
-    - [ ] Task 1: create project
-    - [ ] Task 2: Add views to main activity
-    - [ ] Task 3: Edit the layout: i.e ad background colors
+    - [X] Task 1: create project
+    - [X] Task 2: Add views to main activity
+    - [X] Task 3: Edit the layout: i.e ad background colors
     - [ ] Task 4: Add on click handlers for the buttons
